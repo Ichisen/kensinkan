@@ -1,0 +1,24 @@
+{
+  "name": "kensinkan",
+  "authors": [
+    "Ichisen <alfironius@gmail.com>"
+  ],
+  "description": "kensinkan",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "kensinkan"
+  ],
+  "license": "none",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
