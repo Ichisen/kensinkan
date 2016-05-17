@@ -1,3 +1,69 @@
-.border-container{
-    border:1px solid red;
+.main-body{
+    margin: 0px;
+}
+
+.bg-record {
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+.main-cover {
+    height: 100vh;
+    background-image: -webkit-linear-gradient(top, #ccc, #777);
+    background-image: -moz-linear-gradient(top, #ccc, #777);
+    background-image: -o-linear-gradient(top, #ccc, #777);
+    background-image: -ms-linear-gradient(top, #ccc, #777);
+    background-image: linear-gradient(top, #ccc, #777);
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.main-cover-bg {
+    height: 100vh;
+    position: relative;
+    transform: translateY(0px);
+    background-image: url("../images/main-title.jpg");
+    background-attachment: scroll;
+    width: 100%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.main-cover-bg-filter {
+    height: 100vh;
+    background-image: -moz-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,1));
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,1));
+    background-image: -o-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,1));
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,1));
+    background-image: linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,1));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#e5000000', endColorstr='#00000000');
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.container-cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
 }
