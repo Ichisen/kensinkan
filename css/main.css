@@ -41,7 +41,6 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
     text-align: center;
     vertical-align: middle;
 }
@@ -88,13 +87,10 @@
 
 .text_align_center {
     text-align: center;
-    margin: 0;
-    padding: 0;
-    border: 0;
 }
 
 .title_wrapper {
-    padding-top: 42px;
+    padding-top: 182px;
     padding-bottom: 42px;
     margin: 0;
     border: 0;
@@ -102,7 +98,7 @@
 
 .title {
     color: #fff;
-    padding: 24px 0px 24px 0px;
+    padding: 24px 0px 4px 0px;
     letter-spacing: 1px;
     line-height: 1.17;
 }
@@ -122,4 +118,115 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 20px;
+}
+
+.exp-record {
+    padding-top: 105px;
+    padding-bottom: 75px;
+    background-color: #000000;
+    border: 0;
+}
+
+.plain-block {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.description_title_xs {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.50;
+    margin: 0;
+    border: 0;
+}
+
+.main_title_xs {
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.navbar-inverse-ext {
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+}
+
+.navbar-inverse-ext.link-color ul>li>a  {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.float-right {
+    float: right;
+}
+
+.blog-button {
+    background-color: rgba(255, 0, 0, 0.53) !important;
+}
+
+.blog-button:hover {
+    background-color: red !important;
+}
+
+.navbar-collapse.in {
+    border-color: black;
+}
+
+.navbar-toggle {
+    background-color: rgba(255, 0, 0, 0.53) !important;
+}
+
+.navbar-toggle:hover {
+    background-color: #e8000f !important;
+}
+
+.logo{
+    background-image: url("../images/logos.png");
+    background-position: center center;
+    text-align: center;
+    vertical-align: middle;
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+.title_xs {
+    color: #fff;
+    padding: 24px 0px 24px 0px;
+    letter-spacing: 1px;
+    line-height: 1.17;
+}
+
+.table-container {
+    display: table;
+    width: 100%;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 50%;
+}
+
+.img {
+    width: 100%;
+    margin: 0;
+    vertical-align: middle;
+
+}
+
+.bg-red {
+    background-color: #e8000f;
+}
+
+.discipline-record {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    background-color: #000000;
 }
