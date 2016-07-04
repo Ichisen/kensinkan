@@ -85,10 +85,6 @@
     width: 1200px;
 }
 
-.text_align_center {
-    text-align: center;
-}
-
 .title_wrapper {
     padding-top: 182px;
     padding-bottom: 42px;
@@ -412,5 +408,218 @@
 
 .instructors-photo-jp-record {
     padding-top: 30px;
+    opacity: 1;
+}
+
+.schedule-record {
+    padding-top: 75px;
+    padding-bottom: 60px;
+    background-color: #e8000f;
+}
+
+.schedule-title {
+    padding-top: 2px;
+    padding-bottom: 0px;
+    font-size: 32px;
+    line-height: 1.23;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.schedule-description {
+    padding-top: 21px;
+    font-size: 14px;
+    line-height: 1.55;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.schedule-time-record {
+    padding-top: 45px;
+    padding-bottom: 30px;
+    background-color: #e8000f;
+}
+
+.time-title {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    padding-right: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.time-description {
+    padding-top: 8px;
+    padding-bottom: 6px;
+    font-size: 18px;
+    line-height: 1.55;
+    font-family: 'Georgia', serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+@media (min-width: 992px) {
+    .prefix {
+        padding-left: 160px;
+    }
+}
+@media (min-width: 1200px) {
+    .prefix {
+        padding-left: 200px;
+    }
+}
+
+.examinations-record {
+    padding-top: 90px;
+    padding-bottom: 30px;
+    opacity: 1;
+}
+
+.examinations-title {
+    padding-top: 8px;
+    padding-bottom: 9px;
+    font-size: 22px;
+    line-height: 1.35;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+
+.examinations-description {
+    font-size: 16px;
+    font-family: 'Open Sans';
+    line-height: 28px;
+    letter-spacing: 1px;
+    padding-top: 22px;
+    padding-bottom: 5px;
+    font-weight: 300;
+    color: #000000;
+}
+
+.dan-grade-record {
+    padding-top: 0px;
+    padding-bottom: 90px;
+    background-color: #ffffff;
+}
+
+.dan-grade-button-link {
+    border: 1px solid #333;
+}
+
+.questions-record {
+    padding-top: 105px;
+    padding-bottom: 30px;
+    background-color: #000000;
+}
+
+.questions-title {
+    padding-top: 4px;
+    padding-bottom: 14px;
+    font-size: 28px;
+    line-height: 1.17;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.questions-content-record {
+    padding-top: 75px;
+    padding-bottom: 45px;
+    background-color: #000000;
+}
+
+.questions-content {
+    display: table;
+    width: 100%;
+}
+
+.questions-content-cell {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.questions-content-cell-text {
+    padding-left: 20px;
+    width: 100%
+}
+
+.questions-content-circle {
+    background-color: #e8000f;
+    color: #ffffff;
+
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    display: block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 60px;
+    overflow: hidden;
+    white-space: nowrap;
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.questions-content-title {
+    font-size: 16px;
+    line-height: 25px;
+    margin: 0px;
+    padding-bottom: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.questions-description {
+    font-size: 16px;
+    line-height: 1.55;
+    font-family: 'Georgia', serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.address-record {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #e8000f;
+}
+
+.address-text {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 1.55;
+    font-family: 'Georgia', serif;
+    font-weight: 300;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+.photo-record {
+    padding-top: 60px;
+    padding-bottom: 15px;
+    opacity: 1;
+}
+
+.photo-title {
+    padding-top: 2px;
+    padding-bottom: 0px;
+    font-size: 32px;
+    line-height: 1.23;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+
+.photo-gallery-record {
+    padding-top: 75px;
+    padding-bottom: 60px;
     opacity: 1;
 }
