@@ -58,7 +58,7 @@
                 <div id="navbar" class="navbar-collapse collapse float-right" aria-expanded="false" style="height: 1px;">
                     <ul class="nav navbar-nav">
                         <li><a href="#discipline">Дисциплины</a></li>
-                        <li><a href="#Instructors">Инструкторы</a></li>
+                        <li><a href="#instructors">Инструкторы</a></li>
                         <li><a href="#schedule">Расписание</a></li>
                         <li><a href="#questions">Вопросы</a></li>
                         <li><a href="#address">Адреса</a></li>
@@ -368,11 +368,31 @@
                 </div>
             </div>
         </div>
+        <div class="row schedule-record">
+            <div class="plain-block">
+                <div class="container">
+                    <div class="col-lg-12 schedule-title">
+                        Наши японские сенсеи
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="application/javascript">
+        $( window ).scroll(function() {
+            var scroll = window.pageYOffset;
+
+            if(scroll == 0) {
+                $('nav').removeClass('navbar-inverse-ext-move');
+            } else {
+                $('nav').addClass('navbar-inverse-ext-move');
+            }
+        });
+    </script>
 </body>
 </html>
