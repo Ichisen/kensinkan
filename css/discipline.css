@@ -219,3 +219,14 @@
     padding-top: 75px;
     opacity: 1;
 }
+
+.main-description {
+    color: #fff;
+    margin-top: 43px;
+    padding: 0 50px;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 1.55;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
