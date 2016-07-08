@@ -202,3 +202,62 @@
     font-weight: 300;
     color: #000000;
 }
+
+.dan-grade-record {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-color: #e8000f;
+}
+
+.dan-grade-table-record {
+    padding-top: 10px;
+    padding-bottom: 45px;
+    background-color: #e8000f;
+}
+
+.dan-grade-table {
+    color: #ffffff;
+}
+
+.blog-table .table thead>tr>th {
+    font-size: 26px;
+    line-height: 34px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.blog-table .table tbody>tr>td {
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 300;
+}
+
+.blog-table .table tbody>tr>th {
+    font-size: 16px;
+    line-height: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+@media  (max-width: 768px) {
+    .blog-table .table thead>tr>th {
+        font-size: 22px;
+    }
+    .blog-table .table tbody>tr>td {
+        font-size: 12px;
+    }
+    .blog-table .table tbody>tr>th {
+        font-size: 12px;
+    }
+}
+
+.plan-record {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.plan-table-record {
+    padding-top: 10px;
+    padding-bottom: 45px;
+    opacity: 1;
+}
