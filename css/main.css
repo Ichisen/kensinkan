@@ -103,6 +103,13 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 }
+
+@media  (max-width: 768px) {
+    .main_title {
+        font-size: 32px;
+    }
+}
+
 .description_title{
     color: #fff;
     padding: 15px 0px 30px 0px;
@@ -143,6 +150,12 @@
     font-size: 40px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
+}
+
+@media  (max-width: 768px) {
+    .main_title_xs {
+        font-size: 40px;
+    }
 }
 
 .navbar-inverse-ext {
