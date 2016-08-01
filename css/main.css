@@ -275,6 +275,37 @@
     color: #ffffff;
 }
 
+.cell-content-big-text {
+    line-height: 16px;
+    text-align: left;
+}
+
+.cell-content-padding-off {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+@media (max-width: 992px) {
+    .cell-content-big-text {
+        font-size: 14px;
+        line-height: 11px;
+        text-align: left;
+        text-overflow: ellipsis;
+        padding-left: 8px;
+        padding-right: 2px;
+    }
+}
+
+@media (max-width: 725px) {
+    .cell-content-big-text {
+        font-size: 16px;
+        line-height: 25px;
+        text-align: left;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
 @media screen and (max-width:725px) {
     .table-cell {
         display: block;
