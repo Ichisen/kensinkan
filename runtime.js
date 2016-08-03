@@ -43,8 +43,6 @@ var loadHTMLContent = function(url, callBack) {
     })
 };
 
-var LOADCOUNT = 5;
-
 $( '.load-content' ).each(function(index, item) {
     var $loadTarget = $(item);
     var url = $(item).attr('data-url');
