@@ -250,3 +250,104 @@
 .lightbox-img-td {
     width: 100%;
 }
+
+.media-link {
+    height: 24px;
+    padding: 5px 11px 0 11px;
+    position: absolute;
+    margin-top: -34px;
+    margin-left: 10px;
+    max-width: 300px;
+    text-overflow: ellipsis;
+    overflow-x: hidden;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #FFFFFF;
+    -webkit-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    line-height: normal;
+    bottom: 65px;
+}
+
+.media-link-icon {
+    position: absolute;
+    margin: 2px 0 0 0;
+    width: 7px;
+    height: 10px;
+    background-image: url('../images/photo_lnk.png');
+}
+
+.media-link-text {
+    padding-left: 14px;
+    font-size: 11px;
+}
+
+.media-link-head {
+    padding: 10px 15px 6px 15px;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    line-height: 15px;
+    margin: 0px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.media-link-border {
+    border: 1px solid #C0CAD5;
+}
+
+.media-link-dsc {
+    padding: 0 15px 10px 15px;
+    margin-top: -2px;
+    line-height: 15px;
+}
+
+.button-wrapper {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+}
+
+.button-link {
+    color:#000000;
+    border:0px solid #ffffff;
+    background-color:#ffffff;
+    text-decoration: none;
+    white-space: normal;
+    padding-left: 60px;
+    padding-right: 60px;
+
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    background-image: none;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.border-button-link {
+    border: 1px solid #333;
+}
+
+.button-link-record {
+
+}
