@@ -86,10 +86,16 @@
 }
 
 .title_wrapper {
-    padding-top: 182px;
+    padding-top: 102px;
     padding-bottom: 42px;
     margin: 0;
     border: 0;
+}
+
+@media  (max-width: 768px) {
+    .title_wrapper {
+        padding-top: 42px;
+    }
 }
 
 .title {
@@ -202,11 +208,15 @@
 
 .logo{
     background-image: url("../images/logos.png");
-    background-position: center center;
+    background-position: center right;
     text-align: center;
     vertical-align: middle;
     height: 100px;
     background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
 }
 
 .title_xs {
@@ -673,7 +683,6 @@
 
 .photo-gallery-record {
     padding-top: 75px;
-    padding-bottom: 60px;
     opacity: 1;
 }
 
@@ -682,3 +691,8 @@
     text-decoration: none;
 }
 
+.dead-img {
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    border: 10px solid #000;
+}
