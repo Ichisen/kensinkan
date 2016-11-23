@@ -1,2 +1,23 @@
 AddDefaultCharset utf-8
 AddType 'text/html; charset=utf-8' .html .htm .shtml
+Redirect 301 /archive /history/
+
+Redirect 301 /about /
+Redirect 301 /beginner /#questions
+Redirect 301 /shedule /#schedule
+Redirect 301 /contact /#address
+Redirect 301 /scheme /#address
+Redirect 301 /filials /
+
+Redirect 301 /kendo http://kendonsk.ru/
+Redirect 301 /iaido/app /iaido/
+Redirect 301 /foto/iaido /iaido/
+Redirect 301 /articles/kratkaya-istoriya-dzedo-vseyaponskoi-assotsiatsii-kendo /articles/
+Redirect 301 /foto/jodo /jodo/
+
+Redirect 301 /plan /blog#plan
+Redirect 301 /links /blog#url
+Redirect 301 /dan-grade /blog#dan-grade
+
+ErrorDocument 404 /404.html
+
