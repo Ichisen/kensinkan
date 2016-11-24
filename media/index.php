@@ -1,7 +1,7 @@
 <?php
 
-include 'php/json.php';
-include 'php/content.php';
+include '../data/php/json.php';
+include '../data/php/content.php';
 
 echo CONTENT::LoadGallery();
 

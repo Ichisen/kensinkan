@@ -8,7 +8,7 @@
           "name": "Семинары с Ясумару-сенсеем и Ёката-сенсеем.",
           "description": "243 фотографий",
           "date": "август 2016 г.",
-          "image": "content/gallery/photo/dsc05470_medium.jpg",
+          "image": "../data/content/gallery/photo/dsc05470_medium.jpg",
           "url": "https://goo.gl/photos/1hNs42RmT89hn4bk8"
         },
         {
@@ -16,7 +16,7 @@
           "name": "Открытие семинара с Ясумару-сенсеем и Ёката-сенсеем.",
           "description": "11 минут 17 секунд",
           "date": "август 2016 г.",
-          "image": "content/gallery/video/jp_nsk_2016.jpg",
+          "image": "../data/content/gallery/video/jp_nsk_2016.jpg",
           "url": "https://drive.google.com/open?id=0BwGldumHNR-OZ0pBTGJVVmtCaGc",
           "video": true
         },
@@ -25,7 +25,7 @@
           "name": "Саппоро-город побратим.",
           "description": "119 фотографий",
           "date": "2005 г. - 2016 г.",
-          "image": "content/gallery/photo/2.jpg",
+          "image": "../data/content/gallery/photo/2.jpg",
           "url": "https://goo.gl/photos/pRkbBzEZT5Gy12SU9"
         }
       ]
@@ -37,14 +37,14 @@
           "name": "Тренировки в Саппоро.",
           "description": "119 фотографий",
           "date": "2005 г. - 2015 г.",
-          "image": "content/gallery/photo/_mg_0167_novyy_razmer.jpg",
+          "image": "../data/content/gallery/photo/_mg_0167_novyy_razmer.jpg",
           "url": "https://goo.gl/photos/xUcKofknyDnsn2Vp6"
         },{
           "fullName": "Соревнования Россия-Япония, ноябрь 2015",
           "name": "Соревнования Россия-Япония.",
           "description": "13 минут 14 секунд",
           "date": "ноябрь 2015 г.",
-          "image": "content/gallery/video/2015-11-08_Russia-Japan-taikai.png",
+          "image": "../data/content/gallery/video/2015-11-08_Russia-Japan-taikai.png",
           "url": "https://drive.google.com/open?id=0BwGldumHNR-OQTFQcWNCTW5HT28",
           "video": true
         },{
@@ -52,7 +52,7 @@
           "name": "Япония. Детские соревнования.",
           "description": "04 минут 36 секунд",
           "date": "ноябрь 2015 г.",
-          "image": "content/gallery/video/deti.png",
+          "image": "../data/content/gallery/video/deti.png",
           "url": "https://drive.google.com/open?id=0BwGldumHNR-OMUFBSllLQnFaVnc",
           "video": true
         },{
@@ -60,14 +60,14 @@
           "name": "Семинар с Фуруно-сенсеем.",
           "description": "226 фотографий",
           "date": "12 авг. 2015 г.",
-          "image": "content/gallery/photo/furune_seminar1.jpg",
+          "image": "../data/content/gallery/photo/furune_seminar1.jpg",
           "url": "https://goo.gl/photos/GXSpTqCakebhHxsM8"
         },{
           "fullName": "Семинар с Ёката-сенсеем. июль 2015",
           "name": "Семинар с Ёката-сенсеем.",
           "description": "115 фотографий",
           "date": "июль 2015 г.",
-          "image": "content/gallery/photo/dsc03410.jpg",
+          "image": "../data/content/gallery/photo/dsc03410.jpg",
           "url": "https://goo.gl/photos/BCS5mwqGaeQxwq15A"
         }
       ]
@@ -78,7 +78,7 @@
         "name": "Япония. Тренировки.",
         "description": "18 минут 08 секунд",
         "date": "осень 2014 г.",
-        "image": "content/gallery/video/trenirovki.png",
+        "image": "../data/content/gallery/video/trenirovki.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OR3p5M1JfTWpMajA",
         "video": true
       },{
@@ -86,7 +86,7 @@
         "name": "Япония. Прогулки по Саппоро.",
         "description": "12 минут 30 секунд",
         "date": "осень 2014 г.",
-        "image": "content/gallery/video/progulki-po-sapporo.png",
+        "image": "../data/content/gallery/video/progulki-po-sapporo.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OLTVWaFhfZ0Vuenc",
         "video": true
       },{
@@ -94,7 +94,7 @@
         "name": "Хакама по-японски.",
         "description": "03 минут 01 секунд",
         "date": " 5 мая 2014 г.",
-        "image": "content/gallery/video/hakama.png",
+        "image": "../data/content/gallery/video/hakama.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OTUNaWGdwd3FvcXM",
         "video": true
       }]
@@ -105,28 +105,28 @@
         "name": "Япония. Прогулки по городу и не только.",
         "description": "120 фотографи",
         "date": "осень 2013 г.",
-        "image": "content/gallery/photo/jp_autom_2013.jpg",
+        "image": "../data/content/gallery/photo/jp_autom_2013.jpg",
         "url": "https://goo.gl/photos/Dhq6eQ33CKy5E2AT8"
       },{
         "fullName": "Япония. Семинар, тренировки, тренировки, осень 2013",
         "name": "Япония. Семинар, тренировки, тренировки.",
         "description": "117 фотографи",
         "date": "осень 2013 г.",
-        "image": "content/gallery/photo/seminar_jp_2013.jpg",
+        "image": "../data/content/gallery/photo/seminar_jp_2013.jpg",
         "url": "https://goo.gl/photos/BAcTM9CkefojcNrs7"
       },{
         "fullName": "Япония. Тренировки, прогулки, осень... осень 2013",
         "name": "Япония. Тренировки, прогулки, осень...",
         "description": "250 фотографи",
         "date": "осень 2013 г.",
-        "image": "content/gallery/photo/img_8076.jpg",
+        "image": "../data/content/gallery/photo/img_8076.jpg",
         "url": "https://goo.gl/photos/85gzbLohuusyCMLJ9"
       },{
         "fullName": "Япония. Прибытие поезда, осень 2013",
         "name": "Япония. Прибытие поезда.",
         "description": "00 минут 21 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/train.png",
+        "image": "../data/content/gallery/video/train.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-ObVBsclJBa1Qtdmc",
         "video": true
       },{
@@ -134,7 +134,7 @@
         "name": "Япония. Фабрика. Видео 1.",
         "description": "01 минут 11 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/fabric1.png",
+        "image": "../data/content/gallery/video/fabric1.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OWTg4eTktM0FWb2c",
         "video": true
       },{
@@ -142,7 +142,7 @@
         "name": "Япония. Фабрика. Видео 2.",
         "description": "00 минут 46 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/fabric2.png",
+        "image": "../data/content/gallery/video/fabric2.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OQzFoRjFVSXZoYVk",
         "video": true
       },{
@@ -150,7 +150,7 @@
         "name": "Япония. Фабрика. Видео 3.",
         "description": "02 минут 58 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/fabric3.png",
+        "image": "../data/content/gallery/video/fabric3.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OcWRFV0Rra3dvanc",
         "video": true
       },{
@@ -158,7 +158,7 @@
         "name": "Детские соревнования. Видео 1.",
         "description": "02 минут 59 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/deti_shvatka.png",
+        "image": "../data/content/gallery/video/deti_shvatka.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OWDdMOHRadkhiWGM",
         "video": true
       },{
@@ -166,7 +166,7 @@
         "name": "Детские соревнования. Видео 2.",
         "description": "01 минут 55 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/deti_shvatka2.png",
+        "image": "../data/content/gallery/video/deti_shvatka2.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-ObXRubVRIZGxPaVE",
         "video": true
       },{
@@ -174,7 +174,7 @@
         "name": "Детские соревнования. Видео 3.",
         "description": "04 минут 36 секунд",
         "date": "осень 2013 г.",
-        "image": "content/gallery/video/deti_shvatka3.png",
+        "image": "../data/content/gallery/video/deti_shvatka3.png",
         "url": "https://drive.google.com/open?id=0BwGldumHNR-OV0pqaDFrREtVb0k",
         "video": true
       }]
@@ -185,7 +185,7 @@
         "name": "Япония. Семинар по дзёдо.",
         "description": "47 фотографи",
         "date": "ноябрь 2012 г.",
-        "image": "content/gallery/photo/5dan.jpg",
+        "image": "../data/content/gallery/photo/5dan.jpg",
         "url": "https://goo.gl/photos/V9SeXzqvTLs8wh6R6"
       }]
     },{
@@ -195,7 +195,7 @@
         "name": "Чемпионат России по иайдо.",
         "description": "14 фотографи",
         "date": "апрель 2011 г.",
-        "image": "content/gallery/photo/02_66b89279.jpg",
+        "image": "../data/content/gallery/photo/02_66b89279.jpg",
         "url": "https://goo.gl/photos/v3Ka6NYRF3SXTXnH9"
       }]
     }
