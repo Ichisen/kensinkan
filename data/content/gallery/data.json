@@ -1,6 +1,18 @@
 {
   "folders":[
     {
+      "year": 2017,
+      "items": [
+        {
+          "fullName": "Поездка в Японию, февраль 2017",
+          "name": "Поездка в Японию",
+          "description": "40 фотографий",
+          "date": "февраль 2017 г.",
+          "image": "../data/content/gallery/photo/jp_2017.jpeg",
+          "url": "https://goo.gl/photos/V8w5EWFQtQ3qMoYPA"
+        }
+      ]
+    },{
       "year": 2016,
       "items": [
         {

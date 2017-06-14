@@ -194,6 +194,14 @@
     background-color: red !important;
 }
 
+.news-button {
+    background-color: rgba(211, 211, 211, 0.53) !important;
+}
+
+.news-button:hover {
+    background-color: rgb(211, 211, 211) !important;
+}
+
 .navbar-collapse.in {
     border-color: black;
 }

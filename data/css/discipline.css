@@ -18,6 +18,36 @@
     color: #fff;
 }
 
+.navbar-inverse-ext-white {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+
+.navbar-inverse-ext-white.link-color ul>li>a  {
+    color: #292929;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.navbar-inverse-ext-white.link-color ul>li>a:hover   {
+    text-decoration: underline;
+}
+
+.navbar-inverse-ext-white .navbar-brand:hover  {
+    color: #292929;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.navbar-inverse-ext-white .navbar-brand {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #292929;
+}
+
 .navbar-toggle {
     background-color: rgba(255, 0, 0, 0.53) !important;
 }
@@ -301,6 +331,10 @@
     border: 1px solid #C0CAD5;
 }
 
+.media-link-border-white {
+    border: 1px solid white;
+}
+
 .media-link-dsc {
     padding: 0 15px 10px 15px;
     margin-top: -2px;
@@ -477,6 +511,10 @@
     text-align: right;
 }
 
+.text-news.text-left{
+    text-align: left;
+}
+
 .text-news a {
     color: white;
     font-weight: 600;
@@ -484,4 +522,33 @@
 
 .url-item-record .row {
     min-height: 84px;
+}
+
+.line-record.news-line {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 1;
+    background-color: #e8000f;
+}
+
+.news-line .line-wrapper{
+    opacity: 1;
+}
+
+.news-line .line-opacity-left {
+    background-image: -moz-linear-gradient(right, #fcfcfc, rgba(0,0,0,0));
+    background-image: -webkit-linear-gradient(right, #fcfcfc, rgba(0,0,0,0));
+    background-image: -o-linear-gradient(right, #fcfcfc, rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(right, #fcfcfc, rgba(0,0,0,0));
+}
+
+.news-line .line-opacity-right {
+    background-image: -moz-linear-gradient(left, #fcfcfc, rgba(0,0,0,0));
+    background-image: -webkit-linear-gradient(left, #fcfcfc, rgba(0,0,0,0));
+    background-image: -o-linear-gradient(left, #fcfcfc, rgba(0,0,0,0));
+    background-image: -ms-linear-gradient(left, #fcfcfc, rgba(0,0,0,0));
+}
+
+.news-line .line-center {
+    background: #ffffff;
 }
