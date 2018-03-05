@@ -4,6 +4,14 @@
       "year": 2017,
       "items": [
         {
+          "fullName": "Осенняя поездка в Японию, осень 2017",
+          "name": "Осенняя поездка в Японию",
+          "description": "12 фотографий",
+          "date": "осень 2017 г.",
+          "image": "../data/content/gallery/photo/djo2017.jpg",
+          "url": "https://photos.app.goo.gl/eD53ZPuK6KBTbe693"
+        },
+        {
           "fullName": "Поездка в Японию, февраль 2017",
           "name": "Поездка в Японию",
           "description": "40 фотографий",
