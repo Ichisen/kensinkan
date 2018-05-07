@@ -250,6 +250,17 @@
     font-weight: 600;
 }
 
+td.date-col{
+	text-align: center;
+    color: rgb(232,0,15);
+    font-weight: 500 !important;
+}
+
+th.month-col{
+	text-align: center;
+	background-color: white;
+}
+
 @media  (max-width: 768px) {
     .blog-table .table thead>tr>th {
         font-size: 22px;
