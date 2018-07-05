@@ -4,6 +4,13 @@
       "year": 2018,
       "items": [
         {
+          "fullName": "4 Чемпионат Сибири по Иайдо. Международные командные турниры.",
+          "name": "4 Чемпионат Сибири по Иайдо.",
+          "description": "80 фотографий",
+          "date": "22 июня 2018 г.",
+          "image": "../data/content/gallery/photo/turnir.jpg",
+          "url": "https://photos.app.goo.gl/umkU2rHg5y366Pm78"
+        },{
           "fullName": "Выступления на \"Taiyou no Matsuri\", 1 апреля 2018 г.",
           "name": "Выступления на \"Taiyou no Matsuri\"",
           "description": "10 фотографий",
@@ -42,13 +49,6 @@
           "image": "../data/content/gallery/video/1april2018Part4.jpg",
           "url": "https://www.facebook.com/Iaido.jodo.nsk/videos/962041940640361/",
           "video": true
-        },{
-          "fullName": "4 Чемпионат Сибири по Иайдо. Международные командные турниры.",
-          "name": "4 Чемпионат Сибири по Иайдо.",
-          "description": "80 фотографий",
-          "date": "22 июня 2018 г.",
-          "image": "../data/content/gallery/photo/japanese_team_2018.jpg",
-          "url": "https://photos.app.goo.gl/umkU2rHg5y366Pm78"
         }
       ]
     },{
